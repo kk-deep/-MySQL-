@@ -1,9 +1,3 @@
-# 原始数据
-UserBehavior.csv
-
-# 生成的 Word 文档
-*.doc
-
 # Python 缓存
 __pycache__/
 *.pyc
